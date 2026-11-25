@@ -7,8 +7,10 @@ Welcome to my profile! I'm currently pursuing my BCA and building my skills in D
 ### skill
 - **<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/4419c790-154e-4ffb-8bf8-604b66d3895c" />
  Python**
-- **SQl(Microsoft SQL server)**
-- **Power Bi**
+- **<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/9a522783-bc8f-4469-b244-acd3fbd79b5e" />
+SQl(Microsoft SQL server)**
+- **<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/5f761fe2-0a5f-4ac6-b428-ad902210cf27" />
+Power Bi**
 
 <!--
 **ajaypandit12/ajaypandit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
