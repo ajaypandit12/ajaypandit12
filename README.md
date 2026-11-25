@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+ ### Hi, I'm Ajay Pandit
+
+Welcome to my profile! I'm currently pursuing my BCA and building my skills in Data Analysis. Here you'll find my projects and progress as I learn to uncover insights from data.
+**___________________________________________________________________________________________________________________________**
+### skill
+- **<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4419c790-154e-4ffb-8bf8-604b66d3895c" />
+ Python**
+- **SQl(Microsoft SQL server)**
+- **Power Bi**
+
 <!--
 **ajaypandit12/ajaypandit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
