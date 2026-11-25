@@ -5,11 +5,11 @@
 Welcome to my profile! I'm currently pursuing my BCA and building my skills in Data Analysis. Here you'll find my projects and progress as I learn to uncover insights from data.
 **___________________________________________________________________________________________________________________________**
 ### skill
-- **<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/4419c790-154e-4ffb-8bf8-604b66d3895c" />
+- **<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/4419c790-154e-4ffb-8bf8-604b66d3895c" />
  Python**
-- **<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/9a522783-bc8f-4469-b244-acd3fbd79b5e" />
+- **<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a522783-bc8f-4469-b244-acd3fbd79b5e" />
 SQl(Microsoft SQL server)**
-- **<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/5f761fe2-0a5f-4ac6-b428-ad902210cf27" />
+- **<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5f761fe2-0a5f-4ac6-b428-ad902210cf27" />
 Power Bi**
 
 <!--
