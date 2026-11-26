@@ -17,6 +17,7 @@ Microsoft Excel**
 
 **___________________________________________________________________________________________________________________________**
 ### Project
+##### 💡 I enjoy analyzing data, building dashboards, solving real-world problems, and creating projects that combine analytics with AI.
 - **[Data Warehouse Project](https://github.com/ajaypandit12/sql-data-warehouse-project)**
 
 <!--
