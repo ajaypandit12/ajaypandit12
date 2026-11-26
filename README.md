@@ -69,17 +69,13 @@ Designed and implemented a SQL-based Data Warehouse solution to organize and ana
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
-✅ Build 10+ Data Analytics Projects
-
-✅ Master SQL and Power BI
-
-✅ Learn Pandas & NumPy
-
-✅ Contribute to Open Source
-
-✅ Land a Data Analyst Internship
+- Build impactful Data Analytics projects
+- Strengthen SQL and Power BI skills
+- Learn Python libraries like Pandas and NumPy
+- Gain hands-on experience through real-world projects
+- Secure a Data Analyst Internship opportunity
 
 ---
 
@@ -100,3 +96,5 @@ Designed and implemented a SQL-based Data Warehouse solution to organize and ana
 💼 Open to learning, collaboration, and exciting opportunities in Data Analytics.
 
 ⭐ If you find my projects interesting, don't forget to star the repositories and follow my GitHub journey!
+
+🔗[<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/c0992c28-dcfd-493b-9d30-d1c7d564a192" />](www.linkedin.com/in/ajay-pandit-74a061440)
