@@ -1,44 +1,102 @@
- ## Hi👋, I'm Ajay Pandit
+<h1 align="center">Hi 👋, I'm Ajay Pandit</h1>
 
-Welcome to my profile! I'm currently pursuing my BCA and building my skills in Data Analysis. Here you'll find my projects and progress as I learn to uncover insights from data.
-**___________________________________________________________________________________________________________________________**
-### Skills
-##### Currently learning and building projects in:
-- **<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/4419c790-154e-4ffb-8bf8-604b66d3895c" />
- Python**
-- **<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a522783-bc8f-4469-b244-acd3fbd79b5e" />
-SQl(Microsoft SQL server)**
-- **<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5f761fe2-0a5f-4ac6-b428-ad902210cf27" />
-Power Bi**
-- **<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/37a39555-d9cb-475c-a872-d4f10318ed8d" />
-Microsoft Excel**
-- **🤖 Prompt Engineering**
-- **✨ Generative AI**
+<h3 align="center">📊 Aspiring Data Analyst | 🎓 BCA Student | 🤖 AI Enthusiast</h3>
 
-**___________________________________________________________________________________________________________________________**
-### Project
-##### 💡 I enjoy analyzing data, building dashboards, solving real-world problems, and creating projects that combine analytics with AI.
-- **[Data Warehouse Project](https://github.com/ajaypandit12/sql-data-warehouse-project)**
-**___________________________________________________________________________________________________________________________**
-### 💡 About Me
-**📊 Love analyzing data and discovering insights**
-**📈 Interested in Business Intelligence & Analytics**
-**🤖 Exploring AI, Prompt Engineering, and Generative AI**
-**🚀 Building projects to gain real-world experience**
-**🌱 Lifelong learner passionate about technology**
+<p align="center">
+Passionate about transforming raw data into meaningful insights and building data-driven solutions.
+</p>
 
+---
 
-<!--
-**ajaypandit12/ajaypandit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Learning and building projects in **Data Analytics**
+
+📈 Interested in **Business Intelligence, Data Visualization, and Data Warehousing**
+
+🤖 Exploring **Artificial Intelligence, Prompt Engineering, and Generative AI**
+
+🚀 Building projects to gain real-world experience and strengthen problem-solving skills
+
+🌱 Continuously learning new technologies and industry best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Database
+- 🐍 Python
+- 🗄️ SQL (Microsoft SQL Server)
+
+### Data Analytics & Visualization
+- 📊 Power BI
+- 📈 Microsoft Excel
+
+### AI & Productivity
+- 🤖 Prompt Engineering
+- ✨ Generative AI
+
+---
+
+## 📂 Featured Projects
+
+### 🏢 Data Warehouse Project
+
+Designed and implemented a SQL-based Data Warehouse solution to organize and analyze business data efficiently.
+
+🔗 Repository:
+**[SQL Data Warehouse Project](https://github.com/ajaypandit12/sql-data-warehouse-project)**
+
+### Skills Applied
+✅ Data Modeling  
+✅ SQL Querying  
+✅ ETL Concepts  
+✅ Data Warehousing  
+✅ Business Analytics
+
+---
+
+## 📈 Current Learning Roadmap
+
+- Advanced SQL
+- Python for Data Analysis
+- Power BI Dashboard Development
+- Data Cleaning & Transformation
+- Statistics for Data Analytics
+- AI-Powered Analytics
+
+---
+
+## 🎯 2026 Goals
+
+✅ Build 10+ Data Analytics Projects
+
+✅ Master SQL and Power BI
+
+✅ Learn Pandas & NumPy
+
+✅ Contribute to Open Source
+
+✅ Land a Data Analyst Internship
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ajaypandit12&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaypandit12&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+💼 Open to learning, collaboration, and exciting opportunities in Data Analytics.
+
+⭐ If you find my projects interesting, don't forget to star the repositories and follow my GitHub journey!
