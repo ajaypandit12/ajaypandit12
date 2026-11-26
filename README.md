@@ -101,4 +101,4 @@ Designed and implemented a SQL-based Data Warehouse solution to organize and ana
 ⭐ If you find my projects interesting, don't forget to star the repositories and follow my GitHub journey!
 
 🔗**CONNECT WITH ME:-** [<img width="96" height="24" alt="image" src="https://github.com/user-attachments/assets/18b9714a-5e1a-4a6d-8360-d46c57b954db" />
-](www.linkedin.com/in/ajay-pandit-74a061440)
+](https://www.linkedin.com/in/ajay-pandit-74a061440/)
