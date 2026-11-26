@@ -9,6 +9,8 @@ Welcome to my profile! I'm currently pursuing my BCA and building my skills in D
 SQl(Microsoft SQL server)**
 - **<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5f761fe2-0a5f-4ac6-b428-ad902210cf27" />
 Power Bi**
+- **🤖 Prompt Engineering**
+- **✨ Generative AI**
 
 **___________________________________________________________________________________________________________________________**
 ### Project
