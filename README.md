@@ -88,9 +88,7 @@ Designed and implemented a SQL-based Data Warehouse solution to organize and ana
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaypandit12&theme=tokyonight" />
 </p>
-
-                                    [![GitHub Streak](https://streak-stats.demolab.com?user=ajaypandit12&theme=onedark&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ajaypandit12&theme=onedark&mode=weekly)](https://git.io/streak-stats)
 ---
 
 ## 🤝 Let's Connect
