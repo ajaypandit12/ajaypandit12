@@ -19,6 +19,14 @@ Microsoft Excel**
 ### Project
 ##### 💡 I enjoy analyzing data, building dashboards, solving real-world problems, and creating projects that combine analytics with AI.
 - **[Data Warehouse Project](https://github.com/ajaypandit12/sql-data-warehouse-project)**
+**___________________________________________________________________________________________________________________________**
+### 💡 About Me
+**📊 Love analyzing data and discovering insights**
+**📈 Interested in Business Intelligence & Analytics**
+**🤖 Exploring AI, Prompt Engineering, and Generative AI**
+**🚀 Building projects to gain real-world experience**
+**🌱 Lifelong learner passionate about technology**
+
 
 <!--
 **ajaypandit12/ajaypandit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
